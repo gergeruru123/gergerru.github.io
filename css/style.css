@@ -36,6 +36,8 @@ font-weight: 700;
 padding: 17px 57px 19px 55px;
 margin-top: 33px;
 outline: none;
+display: inline-block;
+text-decoration: none;
 }
 header small {
 font-size: 12px;

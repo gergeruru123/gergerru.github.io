@@ -150,13 +150,11 @@ font-weight: 300;
 .title-subscribe {
 font-weight: 300;
 }
-
 @media (max-width: 1200px) {
 .header-pretitle {
 margin-top: 60px;
 }
 }
-
 @media (max-width: 992px) {
 .header-img {
 display: none;
@@ -165,21 +163,21 @@ display: none;
 margin-top: 10px;
 }
 .footer-author {
-	font-size: 18px;
+font-size: 18px;
 }
 .footer-text {
-	font-size: 14px;
+font-size: 14px;
 }
 .social a{
-	margin-left: 5px;
-	margin-right: 5px;
+margin-left: 5px;
+margin-right: 5px;
 }
 .social img{
-	width: 30px;
+width: 30px;
 }
 .footer-button {
-	font-size: 14px;
-	padding: 8px 35px;
+font-size: 14px;
+padding: 8px 35px;
 }
 }
 @media (max-width: 768px) {

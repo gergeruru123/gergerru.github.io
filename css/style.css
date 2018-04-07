@@ -150,21 +150,19 @@ font-weight: 300;
 .title-subscribe {
 font-weight: 300;
 }
+
 @media (max-width: 1200px) {
 .header-pretitle {
 margin-top: 60px;
 }
 }
 
-@media (min-width: 992px) {
+@media (max-width: 992px) {
 .header-img {
 display: none;
 }
 .header-pretitle {
 margin-top: 10px;
-}
-.header-pretitle {
-margin-top: 20px;
 }
 .footer-author {
 	font-size: 18px;
@@ -172,7 +170,7 @@ margin-top: 20px;
 .footer-text {
 	font-size: 14px;
 }
-.social {
+.social a{
 	margin-left: 5px;
 	margin-right: 5px;
 }
@@ -184,13 +182,13 @@ margin-top: 20px;
 	padding: 8px 35px;
 }
 }
-@media (min-width: 768px;) {
-.portfolio-col-1{
+@media (max-width: 768px) {
+.portfolio-col1{
 padding-left: 20px;
 padding-right: 20px;
 margin-bottom: 40px;
 }
-.portfolio-col-2 {
+.portfolio-col2 {
 padding-left: 20px;
 padding-right: 20px;
 }
